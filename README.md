@@ -58,7 +58,6 @@ This quiz app can be used in educational settings, online learning platforms, an
 https://drive.google.com/file/d/1-I83xfVRh6ClexBkNj8Q0PTz2RKnNRt9/view?usp=sharing
 
 
-## Conclusion
-This quiz app provides a convenient way to create, manage, and take quizzes. It can be customized and extended to meet specific requirements.
+
 
 
